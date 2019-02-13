@@ -1,4 +1,4 @@
-#wall .tag-1 { /*110 > 010*/
+#wall .tag-1 { /* 010 < 110 */
   display: none;
 }
 
